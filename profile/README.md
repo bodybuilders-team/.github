@@ -13,7 +13,7 @@
 
 - 👨‍💻 We are a group of students from the `Instituto Superior de Engenharia de Lisboa` (ISEL) in Lisbon, Portugal 🇵🇹
 
-- 🔭 We are currently working on `College Projects`
+- 🔭 We are currently working on [`PHYLOViZ Web Platform`](https://github.com/bodybuilders-team/phyloviz-web-platform) (Final Degree Project)
  
 - 🔍 We are currently studying `Spring` and `Android`
 
