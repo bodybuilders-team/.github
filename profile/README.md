@@ -11,11 +11,11 @@
 
 ## 📌 About Us
 
-- 👨‍💻 We are a group of students from the `Instituto Superior de Engenharia de Lisboa` (ISEL) in Lisbon, Portugal 🇵🇹
+- 👨‍💻 We are a group of students from the `Instituto Superior Técnico` (IST) in Lisbon, Portugal 🇵🇹
 
-- 🔭 We are now applying for master's degrees in software engineering, after having finished working on [`PHYLOViZ Web Platform`](https://github.com/phyloviz/phyloviz-web-platform) on the context of the Final Degree Project.
+- 🔭 We finished our degree in Computer Science and Engineering in `Instituto Superior de Engenharia de Lisboa` (ISEL)
  
-- 🔍 We are currently studying `Spring` and `Android`
+- 🔍 We are currently studying `Artificial Intelligence` and `Distributed Systems`
 
 - ❓ Ask us about `Web Development`
 
