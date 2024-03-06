@@ -11,12 +11,12 @@
 
 ## 📌 About Us
 
-- 👨‍💻 We are a group of students from the `Instituto Superior Técnico` (IST) in Lisbon, Portugal 🇵🇹
+- 👨‍💻 We are a group of students from [`Instituto Superior Técnico (IST)`](https://tecnico.ulisboa.pt/en/), Lisbon 🇵🇹
 
-- 🔭 We finished our degree in Computer Science and Engineering in `Instituto Superior de Engenharia de Lisboa` (ISEL)
+- 🔭 We finished our bachelor's degree in Computer Science and Engineering in [`Instituto Superior de Engenharia de Lisboa (ISEL)`](https://www.isel.pt/en)
  
-- 🔍 We are currently studying `Artificial Intelligence` and `Distributed Systems`
+- 🔍 We are currently specializing in `Distributed Systems ☁️` and `Cybersecurity 🔐`, with a bit of `Artificial Intelligence 🧠` added to the mixture
 
-- ❓ Ask us about `Web Development`
+- ❓ Ask us about `Web and Software Development 🌐`
 
 - 🦆 Fun fact: The name of the organization is due to the fact that we all like to `Workout` 💪
